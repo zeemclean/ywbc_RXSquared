@@ -1,0 +1,7 @@
+standard link : <link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Oswald:400,700,300|Roboto:400,700' rel='stylesheet' type='text/css'>
+import: @import url(http://fonts.googleapis.com/css?family=Rokkitt:400,700|Oswald:400,700,300|Roboto:400,700);
+
+css:
+font-family: 'Rokkitt', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
